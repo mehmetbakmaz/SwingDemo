@@ -1,3 +1,5 @@
+package com.mycompany.personal;
+
 import java.sql.*;
 public class dbHelper {
     private String userName="root";

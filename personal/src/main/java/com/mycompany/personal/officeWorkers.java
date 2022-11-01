@@ -1,3 +1,5 @@
+package com.mycompany.personal;
+
 
 public class officeWorkers {
     private int idOfficeWorkers;
